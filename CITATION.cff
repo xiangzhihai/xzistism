@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use or discuss Xzistism, please cite this repository and the relevant version."
+title: "Xzistism: Foundational Axioms and Evolution"
+type: software
+authors:
+  - family-names: Xiang
+    given-names: Zhihai
+repository-code: "https://github.com/xiangzhihai/xzistism"
+date-released: 2026-10-31
+version: "0.1.0"
